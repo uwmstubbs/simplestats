@@ -18,8 +18,10 @@ def median(numlist):
     else:
        return numlist[index]
 
-
-
+def median(vals):
+    """Computes the median from a list of values."""
+    pass
+>>>>>>> upstream/master
 
 def mode(vals):
     """Computes the mode from a list of values."""
